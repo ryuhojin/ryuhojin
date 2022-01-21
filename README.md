@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ryuhojin's GitHub 
 
-<!--
-**ryuhojin/ryuhojin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- FrontEnd Developer (2Y), I'm working in BNK SYSTEM
 
-Here are some ideas to get you started:
+#### Tech Spec
+- Language : JavaScript, TypeScript
+- Framework : React, Vue, SvelteJS, SolidJS, Redux, Vuex, Recoil
+- Bundler : Webpack, Vite
+- DevTool : LightHouse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GIT HUB
+![](https://github-readme-stats.vercel.app/api?username=ryuhojin&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhojin&layout=compact&theme=dracula)
