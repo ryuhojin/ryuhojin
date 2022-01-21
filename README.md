@@ -10,4 +10,3 @@
 
 #### GIT HUB
 ![](https://github-readme-stats.vercel.app/api?username=ryuhojin&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuhojin&layout=compact&theme=dracula)
