@@ -4,7 +4,7 @@
 
 #### Tech Spec
 - Language : JavaScript, TypeScript
-- Framework : React, Vue, SvelteJS, SolidJS, Redux, Vuex, Recoil
+- Framework : ReactJS, VueJS, SvelteJS, Redux, Vuex
 - Bundler : Webpack, Vite
 - DevTool : LightHouse
 
