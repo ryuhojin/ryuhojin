@@ -10,7 +10,7 @@
 - Sql : MsSql, Oracle, MySql
 - 
 #### NPMJS
-[류호진의 라이브러리 이용하러 가기](https://www.npmjs.com/~ryuhojin)
+[Hojin's NPMJS](https://www.npmjs.com/~ryuhojin) -> Click Me
 
 #### GIT HUB
 ![](https://github-readme-stats.vercel.app/api?username=ryuhojin&theme=dracula)
