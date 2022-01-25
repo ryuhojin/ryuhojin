@@ -4,7 +4,7 @@
 
 #### Tech Spec
 - Language : JavaScript, TypeScript, Java
-- Framework : ReactJS, VueJS, SvelteJS, Redux, Vuex, Spring boot
+- Framework : ReactJS, VueJS, SvelteJS, NextJS, Spring boot
 - Bundler : Webpack, Vite
 - DevTool : LightHouse
 - Sql : MsSql, Oracle, MySql
