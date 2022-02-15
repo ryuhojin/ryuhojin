@@ -10,9 +10,8 @@
 
 #### NPMJS
 [Hojin's NPMJS](https://www.npmjs.com/~ryuhojin) -> Click Me
-
+#### BLOG
+[Hojin's Blog](https://ryuhojin.tistory.com) -> Click Me
 #### GIT HUB
 ![](https://github-readme-stats.vercel.app/api?username=ryuhojin&theme=dracula)
 
-#### UIUX 100DAY CHALLENGE
-[Hojin's Challenge](https://uiux-100-challenge.vercel.app/) -> Click Me
