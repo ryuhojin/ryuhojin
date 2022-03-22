@@ -29,7 +29,7 @@ I hate person who forked my project without stars.. give..m...e stars!!!!!!!!!!!
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-squre&logo=Svelte&logoColor=white">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-squre&logo=Spring Boot&logoColor=white">
 </p>
-<h4>🎨UI</h4>
+<h4>🎨Ui</h4>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-squre&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-squre&logo=CSS3&logoColor=white">
@@ -37,7 +37,7 @@ I hate person who forked my project without stars.. give..m...e stars!!!!!!!!!!!
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-squre&logo=Tailwind CSS&logoColor=white">
   <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-squre&logo=styled-components&logoColor=white">
 </p>
-<h4>🔦BUNDLER</h4>
+<h4>🔦Bundler</h4>
 <p >
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-squre&logo=Webpack&logoColor=black">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-squre&logo=Vite&logoColor=white">
