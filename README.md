@@ -1,4 +1,4 @@
-<p>pool stack developer</p>
+<p>poor stack developer</p>
 <p>바이브코딩 추종론자 : 개발자의 역할은 이미 변했다.</p>
 <p>
   <a href="https://www.npmjs.com/~ryuhojin"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-squre&logo=npm&logoColor=white"></a>
