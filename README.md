@@ -1,4 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuhojin)](https://github.com/anuraghazra/github-readme-stats)
 <p>poor stack developer</p>
 <p>바이브코딩 추종론자 : 개발자의 역할은 이미 변했다.</p>
 <p>
